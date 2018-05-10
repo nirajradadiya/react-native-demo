@@ -12,4 +12,4 @@ Like `npm start`, but also attempts to open your app in the iOS Simulator if you
 
 Like `npm start`, but also attempts to open your app on a connected Android device or emulator.
 
-<img src="https://github.com/nirajradadiya/react-native-demo/blob/master/screen.png" width="150"/>
+<img src="https://github.com/nirajradadiya/react-native-demo/blob/master/screen.png" width="200"/>
